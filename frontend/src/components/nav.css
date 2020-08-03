@@ -1,0 +1,19 @@
+aside.menu-area {
+    background-color: #ccc0cc;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.12),
+    2px 0 15px rgba(0, 0, 0, 0.09);
+    box-shadow: 0px 0px 5px #000;
+}
+
+.menu a{
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding:  15px;
+    font-weight: 00;
+
+}
+.menu a:hover{
+    background-color: #000;
+    color: #fff;
+}
